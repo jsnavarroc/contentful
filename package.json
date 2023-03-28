@@ -1,0 +1,13 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "johan.navarro",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./01-create-productSection-contentType.js"
+  },
+  "dependencies": {
+    "contentful-migration": "^4.12.9"
+  }
+}
