@@ -5,9 +5,10 @@
   "author": "johan.navarro",
   "license": "MIT",
   "scripts": {
-    "start": "node ./01-create-productSection-contentType.js"
+    "start": "node ./index"
   },
   "dependencies": {
-    "contentful-migration": "^4.12.9"
+    "contentful-migration": "^4.12.9",
+    "dotenv": "^16.0.3"
   }
 }
